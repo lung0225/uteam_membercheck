@@ -1,0 +1,101 @@
+/* .todos {
+    width: 80%;
+    margin: 30px auto;
+    list-style: none;
+    padding: 0 20px;
+    border-top: 1px solid #ccc;
+    background: #fff;
+    box-shadow: 0 10px 30px #ccc;
+    position: relative;
+}
+ 
+h1 {
+    text-align: center;
+    color: rgba(51, 158, 131, 0.6);
+}
+ 
+.todos input::-webkit-input-placeholder {
+    font-style: italic;
+    font-weight: 100;
+    color: #999;
+}
+ 
+.todos>li {
+    display: flex;
+    flex-direction: rows;
+    align-items: center;
+    cursor: pointer;
+    font-size: 18px;
+    line-height: 26px;
+    padding: 12px 0;
+    border-bottom: 1px solid #ededed;
+    position: relative;
+}
+ 
+ 
+.todos>li:first-child>input {
+    font-size: 24px;
+    padding: 10px;
+    width: 100%;
+    border: none;
+    background: transparent;
+}
+ 
+ 
+.todos li time {
+    position: absolute;
+    right: 60px;
+    top: 15px;
+    font-size: 12px;
+    color: #666;
+}
+ 
+.todos li label {
+    display: block;
+    padding-left: 10px;
+    vertical-align: middle;
+    letter-spacing: 2px;
+}
+ 
+.todos li button {
+    position: absolute;
+    right: 5px;
+    top: 10px;
+    height: 30px;
+    border: none;
+    background: none;
+    font-size: 22px;
+    color: #666;
+    display: none;
+}
+ 
+.todos li:hover button {
+    display: block;
+}
+ 
+.todos li button:hover {
+    color: red;
+    cursor: pointer;
+}
+ 
+input {
+    outline: none;
+}
+ 
+ 
+li.checked label {
+    color: #ddd;
+    text-decoration: line-through;
+}
+ 
+li.checked time {
+    color: #ddd;
+    text-decoration: line-through;
+}
+ 
+li.notodos {
+    color: #ddd;
+    text-align: center;
+    line-height: 40px;
+    font-size: 20px;
+} */

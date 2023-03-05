@@ -1,0 +1,28 @@
+
+.component {
+    color: #000;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: stretch;
+    font-family: Inter, Arial;
+    font-size: .75rem;
+    font-weight: 400;
+    line-height: 15px;
+    display: flex;
+  }
+  
+  .rectangle-28 {
+    height: 100%;
+    background-color: #0986ccb3;
+    border-radius: 30px;
+    flex-direction: row;
+    flex-basis: 100%;
+    justify-content: center;
+    align-items: center;
+    padding-top: 1px;
+    display: flex;
+  }
+  
+  .phone-0905859118 {
+    margin-top: 1px;
+  }
